@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.it999.ru/ru2.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 group-title=«Эфирные»,Первый канал HD
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/204/index.m3u8
