@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title=«Эфирные»,Первый канал HD
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/204/index.m3u8
-#EXTINF:-1,Россия 1 HD
+#EXTINF:-1 group-title=«Эфирные»,Россия 1 HD
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/205/index.m3u8
-#EXTINF:-1,НТВ HD
+#EXTINF:-1 group-title=«Эфирные»,НТВ HD
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/213/index.m3u8
